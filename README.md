@@ -8,6 +8,9 @@ This project is a set of tools for binary software component analysis. It is des
 
 I hope this project could help you to analyze binaries easily and efficiently. If you have any questions or suggestions, please feel free to contact me.
 
+## How 
+`pip install BinReaserchTool`
+
 ## Tools
 ### general
 #### file_tool
