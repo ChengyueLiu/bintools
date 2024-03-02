@@ -8,5 +8,9 @@ This project is a set of tools for binary software component analysis. It is des
 
 I hope this project could help you to analyze binaries easily and efficiently. If you have any questions or suggestions, please feel free to contact me.
 
-## Features
-    on the way...
+## Tools
+### general
+#### file_tool
+    1. check_dir
+    2. check_file
+    3. save_as_json

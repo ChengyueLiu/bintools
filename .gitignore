@@ -1,2 +1,5 @@
 .idea
 .venv
+dist
+BinResearchTools.egg-info
+.pypirc
